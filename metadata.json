@@ -1,0 +1,6 @@
+{
+  "name": "Quizora - Play. Compete. Climb.",
+  "description": "Premium competitive quiz platform with real-time scoring, category mastery, interactive leaderboards, and detailed analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
